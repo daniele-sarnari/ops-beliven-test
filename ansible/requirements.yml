@@ -1,0 +1,6 @@
+---
+- name: hifis.unattended_upgrades
+  src: hifis.unattended_upgrades
+  version: v3.1.0
+
+# ...
