@@ -27,6 +27,6 @@ Il testo dell'esercizio da eseguire è il seguente:
 
 - `ansible all -m ping`
 - `ansible all -a "/bin/echo hello"`
-- `ansible-playbook -i hosts.yml playbook.yml --ask-vault-pass`
+- `ansible-playbook -i hosts.yml playbook.yml`
 - `ansible-playbook playbook.yml`
 - `openssl passwd -1 -salt passpass`
